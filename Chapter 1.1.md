@@ -242,12 +242,12 @@ Another online tool, **nbviewer** (http://nbviewer.jupyter.org), allows us to re
 
 We will cover many of these possibilities in subsequent chapters, notably in Chapter 3, Mastering the Jupyter Notebook.
 
-我们将在后面的章节中介绍其中许多可能性，特别是第3章掌握Jupyter笔记本。
+我们将在后面的章节中介绍其中许多可能性，特别是第3章*掌握Jupyter Notebook*。
 
 
 There are other implementations of Jupyter Notebook frontends that offer different ways of interacting with the same notebook documents. JupyterLab, an IDE for interactive computing and data science, is the future of the Jupyter Notebook. It is introduced in Chapter 3, Mastering the Jupyter Notebook. **nteract** is a desktop application that lets the user open a notebook file by double-clicking on it, without using the Terminal and using a web browser. Hydrogen is a plugin of the Atom text editor that provides rich interactive capabilities when opening notebook files. Juno is a Jupyter Notebook client for iPad.
 
-还有Jupyter Notebook前端的其他实现提供了与相同笔记本文档进行交互的不同方式。 JupyterLab是一款用于交互式计算和数据科学的IDE，是Jupyter Notebook的未来。它在第3章介绍，掌握Jupyter笔记本。 nteract是一个桌面应用程序，可让用户通过双击打开笔记本文件，而无需使用终端并使用Web浏览器。 Hydrogen是Atom文本编辑器的插件，可在打开笔记本文件时提供丰富的交互功能。 Juno是iPad的Jupyter Notebook客户端。
+还有Jupyter Notebook前端的其他实现提供了与相同notebook文档进行交互的不同方式。 JupyterLab是一款用于交互式计算和数据科学的IDE，是Jupyter Notebook的未来。它在第3章*掌握Jupyter Notebook*介绍。 **nteract**是一个桌面应用程序，可让用户通过双击打开notebook文件，而无需使用终端并使用Web浏览器。 Hydrogen是Atom文本编辑器的插件，可在打开notebook文件时提供丰富的交互功能。 Juno是iPad的Jupyter Notebook客户端。
 
 Here are a few references about the Notebook:
 
